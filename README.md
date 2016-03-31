@@ -1,5 +1,5 @@
 #InfiniTAM
-
+fyhtea:test the git
 This is the software bundle "InfiniTAM",  the current version is maintained by:
 
   Victor Adrian Prisacariu <victor@robots.ox.ac.uk>  
